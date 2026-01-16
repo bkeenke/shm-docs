@@ -1,0 +1,17 @@
+{
+  "name": "shm-docs",
+  "version": "1.0.0",
+  "description": "SHM Documentation - Universal Billing System",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": ["shm", "billing", "documentation"],
+  "author": "SHM Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
